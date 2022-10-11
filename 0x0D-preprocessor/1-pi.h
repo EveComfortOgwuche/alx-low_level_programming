@@ -1,6 +1,5 @@
-#ifndef _PI_H
-#define _PI_H
-
+#ifndef AYO
+#define AYO
 #define PI 3.14159265359
+#endif
 
-#endif /* _PI_H *
